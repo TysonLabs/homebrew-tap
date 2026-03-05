@@ -1,16 +1,17 @@
 # homebrew-tap
 
-Homebrew formulae for [tgeorge06](https://github.com/tgeorge06) projects.
+Homebrew formulae for [TysonLabs](https://github.com/TysonLabs) projects.
 
 ## Install
 
 ```bash
-brew tap tgeorge06/tap
-brew install lazyide
+brew tap TysonLabs/tap
+brew install atlaskb
 ```
 
 ## Available Formulae
 
 | Formula | Description |
 |---------|-------------|
-| [lazyide](https://github.com/tgeorge06/lazyide) | Lightweight terminal-native IDE built with Rust and ratatui |
+| [atlaskb](https://github.com/TysonLabs/atlaskb) | Organizational code knowledge base CLI |
+| [lazyide](https://github.com/TysonLabs/lazyide) | Lightweight terminal-native IDE built with Rust and ratatui |

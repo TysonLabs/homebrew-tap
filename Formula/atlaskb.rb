@@ -2,9 +2,9 @@ class Atlaskb < Formula
   desc "Organizational code knowledge base CLI"
   homepage "https://github.com/TysonLabs/atlaskb"
   url "https://github.com/TysonLabs/atlaskb.git",
-      tag: "v0.1.0",
-      revision: "39d9397786dcf39073cee135e52d3de806812da0"
-  version "0.1.0"
+      tag: "v0.1.7",
+      revision: "5487bffa2d30c1f73e646ef0b4c14e45746fdb69"
+  version "0.1.7"
 
   depends_on "go" => :build
   depends_on "node" => :build
