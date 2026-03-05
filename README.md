@@ -7,6 +7,7 @@ Homebrew formulae for [TysonLabs](https://github.com/TysonLabs) projects.
 ```bash
 brew tap TysonLabs/tap
 brew install atlaskb
+brew install lazyide
 ```
 
 ## Available Formulae
