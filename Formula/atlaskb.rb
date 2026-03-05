@@ -1,5 +1,5 @@
 class Atlaskb < Formula
-  desc "Organizational code knowledge base CLI"
+  desc "Code knowledge graph runtime for engineering teams and coding agents"
   homepage "https://github.com/TysonLabs/atlaskb"
   url "https://github.com/TysonLabs/atlaskb.git",
       tag: "v0.1.7",
