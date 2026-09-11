@@ -1,16 +1,16 @@
 class Lazyide < Formula
   desc "Lightweight terminal-native IDE built with Rust and ratatui"
   homepage "https://github.com/TysonLabs/lazyide"
-  version "0.3.92"
+  version "0.3.93"
   license "MIT"
 
   on_macos do
     if Hardware::CPU.arm?
-      url "https://github.com/TysonLabs/lazyide/releases/download/v0.3.92/lazyide-macos-aarch64.tar.gz"
-      sha256 "6a0a75df09a34dd6cb7496f2bc30106a201fb43d73b75159f3ae79e8333f928e"
+      url "https://github.com/TysonLabs/lazyide/releases/download/v0.3.93/lazyide-macos-aarch64.tar.gz"
+      sha256 "62ec94482fd32dd6c42f5b08e57b5d2a63e52e56030997f641aef90ef494c353"
     else
-      url "https://github.com/TysonLabs/lazyide/releases/download/v0.3.92/lazyide-macos-x86_64.tar.gz"
-      sha256 "c631166d8898540afd685bb26327c12dcb2dafbc56617b7df9ac58c3a68be31d"
+      url "https://github.com/TysonLabs/lazyide/releases/download/v0.3.93/lazyide-macos-x86_64.tar.gz"
+      sha256 "68fe3ca694ef0d08de538c7aefd57faaa1132a89d23cf1977fa119f78125df74"
     end
   end
 
